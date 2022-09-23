@@ -1,4 +1,4 @@
-# Oi, eu sou o ilan. Eu amo gatos e códigos.
+# Hi, im ilan.  love cats and codes.
  
 <div align="center">
   <a href="https://github.com/nancssjs">
