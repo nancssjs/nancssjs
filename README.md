@@ -1,4 +1,4 @@
-# Hi, im ilan.  love cats and codes.
+# Hi, im ilan. I love cats and codes.
  
 <div align="center">
   <a href="https://github.com/nancssjs">
